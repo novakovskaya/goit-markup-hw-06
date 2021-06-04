@@ -927,4 +927,9 @@ input {
   letter-spacing: 0.06em;
   color: var(--primary-white-color);
 }
+
+.contact-form-btn:focus,
+.contact-form-btn:hover {
+  background-color: var(--secondary-accent-color);
+}
 /* ======= END MODAL WINDOW ======= */
